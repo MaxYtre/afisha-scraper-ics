@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Майкл
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260806
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:maykl-1002691-2026-08-06@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:18+\nСтрана США\nIMDb: 7.5\nКинопоиск: 7.8\n
@@ -28,10 +28,27 @@ DESCRIPTION:18+\nСтрана США\nIMDb: 7.5\nКинопоиск: 7.8\n
 URL:https://www.afisha.ru/prm/schedule_cinema_product/maykl-1002691/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎬 Надежда
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260813T075022Z
+UID:nadezhda-1003581-2026-09-09@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Южная Корея\n\nО фильме О
+ хотничья находка в глуши портового горо
+ дка запускает обратный отсчет для челов
+ ечества. Жители оказываются один на один
+  с инопланетным кошмаром\, не поддающимс
+ я земной логике.\n\nТрейлер: https://www.youtube.com/w
+ atch?v=GDCAN0A5mSU\n\nПодробнее: https://www.afisha.ru/prm/schedu
+ le_cinema_product/nadezhda-1003581/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/nadezhda-1003581/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎬 Миньоны и монстры
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:minony-i-monstry-1002699-2026-08-12@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:6+\nСтрана США\nIMDb: 6.6\nКинопоиск: 6.6\n\
@@ -48,76 +65,51 @@ URL:https://www.afisha.ru/prm/schedule_cinema_product/minony-i-monstry-100
  2699/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 Обсессия
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260803
-DTSTAMP:20260812T074847Z
-UID:obsessiya-1002649-2026-08-03@perm-cinema
+SUMMARY:🎬 Сумерки
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20260813T075022Z
+UID:sumerki-190060-2026-09-13@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана США\nКинопоиск: 7.1\n\nО фил
- ьме Безнадежный романтик Беар давно и бе
- зответно влюблен в красавицу Ники. Однаж
- ды в магазине эзотерики он находит стран
- ную безделушку — волшебную палочку. Есл
- и ее сломать\, исполнится твое заветное ж
- елание. Беар загадывает\, чтобы Ники люби
- ла его больше всех на свете. И вот чудо — 
- девушка и прав...\n\nТрейлер: https://www.youtube.com/w
- atch?v=xJYoN-fX2j0\n\nПодробнее: https://www.afisha.ru/prm/schedu
- le_cinema_product/obsessiya-1002649/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/obsessiya-1002649/
+DESCRIPTION:16+\nСтрана США\nIMDb: 5.4\nКинопоиск: 6.7\n
+ \nПышная экранизация главного эморомана 
+ про любовь старшеклассницы и вампира Ро
+ дители Беллы (Стюарт) в разводе\, и она пр
+ иезжает пожить к отцу (Берк) в городок\, г
+ де тот работает шефом полиции. В новой шк
+ оле обращает на себя внимание компания и
+ з пяти старшеклассников: у них белая как 
+ снег кожа\, подведен...\n\nТрейлер: https://www.you
+ tube.com/watch?v=uxjNDE2fMjI\n\nПодробнее: https://www.afisha.ru/
+ prm/schedule_cinema_product/sumerki-190060/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/sumerki-190060/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 Крушение рейса
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:krushenie-reysa-1004146-2026-08-14@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:18+\nСтрана Испания\nIMDb: 5.5\nКинопоис
- к: 5.6\nСредняя цена: 435 ₽\n\nО фильме Самоле
- т международного рейса Лос-Анджелес — Ш
- анхай вынужден совершить аварийную поса
- дку в океане. Те\, кто выжили в авиакатаст
- рофе\, вскоре пожалеют\, что не погибли пр
- и падении самолета. Теперь им предстоит 
- объединиться\, чтобы спастись от кровожа
- дных акул\, привлеченных обломками самол
- ета. Они...\n\nТрейлер: https://www.youtube.com/watch?v=X9IWP
- bi91y4\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_pr
- oduct/krushenie-reysa-1004146/
+ к: 5.6\n\nО фильме Самолет международного р
+ ейса Лос-Анджелес — Шанхай вынужден сов
+ ершить аварийную посадку в океане. Те\, к
+ то выжили в авиакатастрофе\, вскоре пожа
+ леют\, что не погибли при падении самолет
+ а. Теперь им предстоит объединиться\, что
+ бы спастись от кровожадных акул\, привле
+ ченных обломками самолета. Они...\n\nТрейл
+ ер: https://www.youtube.com/watch?v=X9IWPbi91y4\n\nПодробнее: h
+ ttps://www.afisha.ru/prm/schedule_cinema_product/krushenie-reysa-1004146/
 URL:https://www.afisha.ru/prm/schedule_cinema_product/krushenie-reysa-1004
  146/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Закулисье реальности (расширенна
- я версия)
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260812T074847Z
-UID:zakulise-realnosti-rasshirennaya-versiya-1004024-2026-08-10@perm-cinem
- a
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана США\nIMDb: 7.0\nКинопоиск: 6.5\n
- \nО фильме Есть место за пределами нашей 
- реальности… Когда неудачливый продавец
-  мебели Кларк обнаруживает скрытый порт
- ал в другое измерение в подвале своего м
- агазина\, он оказывается в бесконечном л
- абиринте извилистых желтых коридоров. В 
- этом мире время и пространство не подчин
- яются логике\, а нечто жут...\n\nТрейлер: https
- ://www.youtube.com/watch?v=0HjdiohVOik\n\nПодробнее: https://www.
- afisha.ru/prm/schedule_cinema_product/zakulise-realnosti-rasshirennaya-ver
- siya-1004024/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/zakulise-realnosti-r
- asshirennaya-versiya-1004024/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 Зловещие мертвецы: Пекло
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260807
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:zloveshchie-mertvecy-peklo-1002703-2026-08-07@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:18+\nСтрана США\nКинопоиск: 6.9\n\nО фил
@@ -135,402 +127,30 @@ URL:https://www.afisha.ru/prm/schedule_cinema_product/zloveshchie-mertvecy
  -peklo-1002703/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 Во власти страха
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260812T074847Z
-UID:vo-vlasti-straha-1003789-2026-08-14@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана США\nIMDb: 7.3\n\nО фильме Пят
- еро друзей опускаются в клетке на морско
- е дно\, чтобы пощекотать нервы\, наблюдая 
- за белыми акулами. Но опасная забава пер
- ерастает в схватку со смертью\, когда на 
- лодку проникает расчетливый и безжалост
- ный контрабандист. Он требует ныряльщик
- ов покинуть клетку и поднять на борт зат
- онувший не...\n\nТрейлер: https://www.youtube.com/watch?v=
- EkCwaX3Xl5U\n\nПодробнее: https://www.afisha.ru/prm/schedule_cine
- ma_product/vo-vlasti-straha-1003789/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/vo-vlasti-straha-100
- 3789/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 На последнем дыхании
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260807
-DTSTAMP:20260812T074847Z
-UID:na-poslednem-dyhanii-167002-2026-08-07@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Франция\nКинопоиск: 7.7\n\n
- Один из главных (если не главный) фильмов
-  Годара История обаятельного преступник
- а\, которого за угон автомобиля и убийств
- о\, разыскивала полиция\, а он продолжал г
- рабить и радоваться жизни. Правда\, ровно
-  до тех пор\, пока на него не донесла его ж
- е любовница. Приз за режиссуру на Берлин
- ском МКФ в 1960 го...\n\nТрейлер: https://www.youtube.com
- /watch?v=ib1OMh5fTkQ\n\nПодробнее: https://www.afisha.ru/prm/sche
- dule_cinema_product/na-poslednem-dyhanii-167002/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/na-poslednem-dyhanii
- -167002/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Шепот сердца
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260812T074847Z
-UID:shepot-serdca-178128-2026-08-14@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:16+\nСтрана Япония\nКинопоиск: 8.3\n\nА
- ниме по сценарию Хаяо Миядзаки и единств
- енная работа аниматора Есифуми\, которог
- о мэтр прочил себе в наследники Сделанны
- й на знаменитой студии «Гибли» мультфил
- ьм про будни девочки переходного возрас
- та. Единственная работа аниматора Есифу
- ми\, которого Миядзаки прочил себе в нас
- ледники\, но тот умер.\n\nТрейлер: https://www.yout
- ube.com/watch?v=YEcPctFgOuM\n\nПодробнее: https://www.afisha.ru/p
- rm/schedule_cinema_product/shepot-serdca-178128/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/shepot-serdca-178128
- /
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 К�орни: Сага о вампирах
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260807
-DTSTAMP:20260812T074847Z
-UID:korni-saga-o-vampirah-1003125-2026-08-07@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Ирландия\n\nО фильме Пять
-  блогеров\, решают провести выходные вда
- ли от цивилизации\, в глубине леса. Но без
- заботный отдых оборачивается кошмаром: 
- их вторжение пробуждает первого в мире в
- ампира. С этого момента начинается борьб
- а за выживание.\n\nТрейлер: https://www.youtube.com/wat
- ch?v=spLyHdJ_SyE\n\nПодробнее: https://www.afisha.ru/prm/schedule
- _cinema_product/korni-saga-o-vampirah-1003125/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/korni-saga-o-vampira
- h-1003125/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 В�се\, что мы потеряли
+SUMMARY:🎬 Обсессия
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260812T074847Z
-UID:vse-chto-my-poteryali-1003861-2026-08-03@perm-cinema
+DTSTAMP:20260813T075022Z
+UID:obsessiya-1002649-2026-08-03@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Испания\n\nО фильме После
-  смерти родителей Лея перестала мечтать\
- , рисовать и радоваться жизни. Единствен
- ным человеком\, способным вернуть ей вер
- у в себя\, становится Аксель — лучший дру
- г ее брата. Постепенно между ними возник
- ает особая связь\, способная изменить их 
- жизни раз и навсегда.\n\nТрейлер: https://www.yout
- ube.com/watch?v=WMXm0KKGrdM\n\nПодробнее: https://www.afisha.ru/p
- rm/schedule_cinema_product/vse-chto-my-poteryali-1003861/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/vse-chto-my-poteryal
- i-1003861/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 �Время сиять
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260813
-DTSTAMP:20260812T074847Z
-UID:vremya-siyat-1004089-2026-08-13@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:12+\nСтрана Южная Корея\n\nО фильме У
- джин — подающий надежды школьный бейсбо
- лист\, чья карьера оказывается под угроз
- ой из-за внезапной потери контроля над с
- воей коронной подачей. Команда перестае
- т в него верить\, парень впадает в отчаян
- ие. Но все меняется с появлением таинств
- енного студента Квон Тэхи\, который неож
- иданно станови...\n\nПодробнее: https://www.afisha.r
- u/prm/schedule_cinema_product/vremya-siyat-1004089/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/vremya-siyat-1004089
- /
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Ограбить Лондон
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260731
-DTSTAMP:20260812T074847Z
-UID:ograbit-london-1002435-2026-07-31@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Великобритания\nКинопои
- ск: 6.2\n\nО фильме В центре Лондона находят
-  неразорвавшуюся бомбу времен Второй ми
- ровой. Людей из соседних домов эвакуирую
- т\, включая работников крупнейшего банка
-  Великобритании. Именно в этот момент та
- м находится крупная партия алмазов. Каза
- лось бы\, как связаны эти события? Ответ з
- нает команда первоклассных в...\n\nТрейлер
- : https://www.youtube.com/watch?v=l1aRvHb3e3M\n\nПодробнее: https
- ://www.afisha.ru/prm/schedule_cinema_product/ograbit-london-1002435/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/ograbit-london-10024
- 35/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Мегрэ и убийство в высшем общест
- ве
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260812T074847Z
-UID:megre-i-ubiystvo-v-vysshem-obshchestve-1004157-2026-08-14@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Франция\nСредняя цена: 300
-  ₽\n\nО фильме Комиссару Мегрэ поручено р
- асследование деликатного дела: в своей п
- арижской квартире обнаружен мертвым быв
- ший посол. Его смерть грозит раскрыть та
- йны французской аристократии — за безуп
- речной репутацией скрываются любовные с
- вязи\, борьба за наследство и давние секр
- еты.\n\nТрейлер: https://www.youtube.com/watch?v=UBsytGZ77bw\n\n
- Подробнее: https://www.afisha.ru/prm/schedule_cinema_product/megr
- e-i-ubiystvo-v-vysshem-obshchestve-1004157/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/megre-i-ubiystvo-v-v
- ysshem-obshchestve-1004157/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Последний рубеж
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260812T074847Z
-UID:posledniy-rubezh-216197-2026-08-14@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана США\nКинопоиск: 6.6\n\nО фил
- ьме Во время Арденнской операции ранены
- й американский офицер Джон Касл оказыва
- ется в тылу врага. Оставшийся единственн
- ым выжившим в отряде\, он пытается пробит
- ься к своим\, имея при себе лишь военный р
- адиопередатчик. Теперь Каслу надо будет 
- попытаться выжить\, но это будет весьма н
- епросто.\n\nТрейлер: https://www.youtube.com/watch?v=Y_O7puX
- ja-E\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_prod
- uct/posledniy-rubezh-216197/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/posledniy-rubezh-216
- 197/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Терминатор-2: Судный день
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260824
-DTSTAMP:20260812T074847Z
-UID:terminator-2-sudniy-den-168032-2026-08-24@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана США\nIMDb: 8.6\nКинопоиск: 8.4\n
- \nЛегендарный боевик Джеймса Кэмерона пр
- о киборга\, спасающего мир «Нет судьбы» 
- — вырезает ножом на дощатом столе Сара К
- оннор (Линда Гамильтон) — мать людского 
- Сопротивления\, которое под руководство
- м ее сына Джона в постапокалиптическом б
- удущем воюет с машинами и злым искусстве
- нным разумом Скайнет. Но\,...\n\nТрейлер: https
- ://www.youtube.com/watch?v=CRRlbK5w8AE\n\nПодробнее: https://www.
- afisha.ru/prm/schedule_cinema_product/terminator-2-sudniy-den-168032/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/terminator-2-sudniy-
- den-168032/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Призрак в клетке
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260812T074847Z
-UID:prizrak-v-kletke-1003030-2026-08-12@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Индонезия\nКинопоиск: 6.1\
- n\nО фильме В печально известной тюрьме н
- еви�димая сила начинает жестоко убиват
- ь заключенных\, вынуждая вражеские банды
-  и коррумпированных охранников действов
- ать сообща\, пытаясь выжить в условиях на
- растающего кровопролития.\n\nТрейлер: https:
- //www.youtube.com/watch?v=kOREJzTzdZ0\n\nПодробнее: https://www.a
- fisha.ru/prm/schedule_cinema_product/prizrak-v-kletke-1003030/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/prizrak-v-kletke-100
- 3030/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Битва 1947
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260812T074847Z
-UID:bitva-1947-1004302-2026-08-14@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:16+\nСтрана Индия\nIMDb: 6.6\nСредняя цен
- а: 490 ₽\n\nО фильме После раздела Индии и П
- акистана в 1947 году главный герой (Санни Д
- еол) бежит из Мирута со своей семьей и пр
- ибывает в Лахор. Им выделяют большой дом\
- , покинутый индуистской семьей во время 
- хаоса раздела. Но дом не пустует. Внутри 
- все еще живет пожилая индуистка\, заботл
- ивая\, глубоко привязанна...\n\nТрейлер: https
- ://www.youtube.com/watch?v=T4h5cuzJM10\n\nПодробнее: https://www.
- afisha.ru/prm/schedule_cinema_product/bitva-1947-1004302/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/bitva-1947-1004302/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Драйв
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260906
-DTSTAMP:20260812T074847Z
-UID:drayv-205835-2026-09-06@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана США\nIMDb: 7.8\nКинопоиск: 7.2\n
- \nГрандиозная драма Николаса Виндинга Ре
- фна про каскадера и автомеханика Челове
- к работает в автомастерской\, по утрам по
- драбатывает каскадером в кино\, а ночью м
- астерски увозит налетчиков с мест налет
- ов\; все это — не меняясь в лице и практич
- ески не снимая красивой серебряной курт
- ки. По соседству с ним м...\n\nТрейлер: https://w
- ww.youtube.com/watch?v=KBiOF3y1W0Y\n\nПодробнее: https://www.afis
- ha.ru/prm/schedule_cinema_product/drayv-205835/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/drayv-205835/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Мя�теж
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20260812T074847Z
-UID:myatezh-1003024-2026-08-20@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Великобритания\nКинопои
- ск: 8.4\n\nО фильме Коул Рид\, некогда служив
- ший в спецназе и полиции\, ныне трудится 
- в частной охране. Внезапно на его глазах 
- убивают его босса-миллиардера. Рида подс
- тавляют\, поэтому он становится главным 
- подозреваемым. Ему приходится бежать от 
- закона. Он решает самостоятельно выйти н
- а след убийцы и в ходе расс...\n\nТрейлер: htt
- ps://www.youtube.com/watch?v=0NjBpBCDrp8\n\nПодробнее: https://ww
- w.afisha.ru/prm/schedule_cinema_product/myatezh-1003024/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/myatezh-1003024/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Сумерки
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260913
-DTSTAMP:20260812T074847Z
-UID:sumerki-190060-2026-09-13@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:16+\nСтрана США\nIMDb: 5.4\nКинопоиск: 6.7\n
- \nПышная экранизация главного эморомана 
- про любовь старшеклассницы и вампира Ро
- дители Беллы (Стюарт) в разводе\, и она пр
- иезжает пожить к отцу (Берк) в городок\, г
- де тот работает шефом полиции. В новой шк
- оле обращает на себя внимание компания и
- з пяти старшеклассников: у них белая как 
- снег кожа\, подведен...\n\nТрейлер: https://www.you
- tube.com/watch?v=uxjNDE2fMjI\n\nПодробнее: https://www.afisha.ru/
- prm/schedule_cinema_product/sumerki-190060/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/sumerki-190060/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Грозовой перевал
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260812T074847Z
-UID:grozovoy-pereval-208091-2026-08-10@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Великобритания\nIMDb: 6.0\nК
- инопоиск: 6.0\n\nПереосмысление романа Эми
- ли Бронте в традициях британского соцре
- ализма Где-то в Йоркшире\, посреди продув
- аемых всеми ветрами вересковых пустошей
- \, хмурый фермер подбирает темнокожего с
- ироту (Хоусон)\, приводит домой\, называет
-  Хитклиффом и пытается приручить. Сирота
-  диковат\, из английского языка знает в...\
- n\nТрейлер: https://www.youtube.com/watch?v=AY_Vm3Zb-38\n\nПодр
- обнее: https://www.afisha.ru/prm/schedule_cinema_product/grozovoy-per
- eval-208091/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/grozovoy-pereval-208
- 091/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 40 свиданий\, 40 ночей
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260812T074847Z
-UID:40-svidaniy-40-nochey-1003694-2026-08-14@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана США\n\nО фильме У Леи в жи
- зни все под контролем… кроме мужчин и ар
- енды за квартиру\, которую надо платить. 
- После очередного неудачного свидания ба
- бушка предлагает героине сделку: найти д
- остойного парня за 40 свиданий\, и та покр
- оет аренду ее квартиры на целый год.\n\nТр
- ейлер: https://www.youtube.com/watch?v=12vMdt4cYko\n\nПодробн
- ее: https://www.afisha.ru/prm/schedule_cinema_product/40-svidaniy-40-noc
- hey-1003694/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/40-svidaniy-40-noche
- y-1003694/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Влюбись в меня\, если осмелишься
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260813
-DTSTAMP:20260812T074847Z
-UID:vlyubis-v-menya-esli-osmelishsya-173124-2026-08-13@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Франция\nКинопоиск: 7.7\n\n
- Мелодрама о мальчике и девочке\, которые 
- с раннего детства постоянно берут друг д
- руга на «слабо» Жюльен и Софи с раннего д
- етства привыкли соревноваться в розыгры
- шах и шутках на грани фола и продолжают и
- гру\, уже будучи вполне взрослыми. Романт
- ическая комедия с активным использовани
- ем спецэффектов в ду...\n\nТрейлер: https://www.yo
- utube.com/watch?v=oeJQaiClYBQ\n\nПодробнее: https://www.afisha.ru
- /prm/schedule_cinema_product/vlyubis-v-menya-esli-osmelishsya-173124/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/vlyubis-v-menya-esli
- -osmelishsya-173124/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 TheatreHD: Теодор Курентзис. Бунтарь о
- т классики
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260814
-DTSTAMP:20260812T074847Z
-UID:theatrehd-teodor-kurentzis-buntar-ot-klassiki-1001863-2026-08-14@perm-
- cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Германия\nКинопоиск: 8.2\n\
- nО фильме Документальный фильм о революц
- ионном пути дирижера Теодора Курентзиса
-  и его оркестра musicAeterna.\nЭтот документаль
- ный фильм 2016 года — редкая возможность у
- видеть\, как Теодор Курентзис и musicAeterna ра
- ботали над легендарной записью оперы Мо
- царта «Дон Жуан»\, получившей множество 
- престижных...\n\nТрейлер: https://www.youtube.com/watch?v
- =a6au_dDoHBY\n\nПодробнее: https://www.afisha.ru/prm/schedule_cin
- ema_product/theatrehd-teodor-kurentzis-buntar-ot-klassiki-1001863/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/theatrehd-teodor-kur
- entzis-buntar-ot-klassiki-1001863/
+DESCRIPTION:18+\nСтрана США\nКинопоиск: 7.1\n\nО фил
+ ьме Безнадежный романтик Беар давно и бе
+ зответно влюблен в красавицу Ники. Однаж
+ ды в магазине эзотерики он находит стран
+ ную безделушку — волшебную палочку. Есл
+ и ее сломать\, исполнится твое заветное ж
+ елание. Беар загадывает\, чтобы Ники люби
+ ла его больше всех на свете. И вот чудо — 
+ девушка и прав...\n\nТрейлер: https://www.youtube.com/w
+ atch?v=xJYoN-fX2j0\n\nПодробнее: https://www.afisha.ru/prm/schedu
+ le_cinema_product/obsessiya-1002649/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/obsessiya-1002649/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 Ешь\, молись\, худей
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:esh-molis-hudey-1003136-2026-08-11@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:18+\nСтрана Австралия\nIMDb: 6.5\nКинопо
@@ -548,52 +168,317 @@ URL:https://www.afisha.ru/prm/schedule_cinema_product/esh-molis-hudey-1003
  136/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 Параллельные истории
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260812T074847Z
-UID:parallelnye-istorii-1003862-2026-08-18@perm-cinema
+SUMMARY:🎬 Мя�теж
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260820
+DTSTAMP:20260813T075022Z
+UID:myatezh-1003024-2026-08-20@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Франция\n\nО фильме Писат
- ельница Сильви живет в одиночестве и наб
- людает за соседями через телескоп\, прев
- ращая их жизни в фикшн. В своем романе он
- а добавляет в их отношения драму\, страст
- ь\, ревность и предательство. В это время 
- в ее собственной жизни появляется помощ
- ник Адам. Он влюбляется в живущую напрот
- ив Нит...\n\nТрейлер: https://www.youtube.com/watch?v=NmyY0Pyk
- pD4\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_produ
- ct/parallelnye-istorii-1003862/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/parallelnye-istorii-
- 1003862/
+DESCRIPTION:18+\nСтрана Великобритания\nКинопои
+ ск: 8.4\n\nО фильме Коул Рид\, некогда служив
+ ший в спецназе и полиции\, ныне трудится 
+ в частной охране. Внезапно на его глазах 
+ убивают его босса-миллиардера. Рида подс
+ тавляют\, поэтому он становится главным 
+ подозреваемым. Ему приходится бежать от 
+ закона. Он решает самостоятельно выйти н
+ а след убийцы и в ходе расс...\n\nТрейлер: htt
+ ps://www.youtube.com/watch?v=0NjBpBCDrp8\n\nПодробнее: https://ww
+ w.afisha.ru/prm/schedule_cinema_product/myatezh-1003024/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/myatezh-1003024/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 Нуреев: Лебединое озеро
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260812T074847Z
-UID:nureev-lebedinoe-ozero-171301-2026-08-12@perm-cinema
+SUMMARY:🎬 Шепот сердца
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260813T075022Z
+UID:shepot-serdca-178128-2026-08-14@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:6+\nСтрана Германия\nКинопоиск: 6.7\n\n
- Портрет великих артистов прошлого века 
- Этим спектаклем советский беглец Нуреев
-  начал заграничную карьеру. Чтобы обеспе
- чить себя профессиональной пищей\, он ст
- ал сочинять собственные варианты больши
- х ленинградских балетов\, которых на Зап
- аде почти не знали. «Лебединое озеро» бы
- ло его первым опытом. Цен...\n\nТрейлер: https:
- //www.youtube.com/watch?v=e1hHa2JLRJ0\n\nПодробнее: https://www.a
- fisha.ru/prm/schedule_cinema_product/nureev-lebedinoe-ozero-171301/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/nureev-lebedinoe-oze
- ro-171301/
+DESCRIPTION:16+\nСтрана Япония\nКинопоиск: 8.3\n\nА
+ ниме по сценарию Хаяо Миядзаки и единств
+ енная работа аниматора Есифуми\, которог
+ о мэтр прочил себе в наследники Сделанны
+ й на знаменитой студии «Гибли» мультфил
+ ьм про будни девочки переходного возрас
+ та. Единственная работа аниматора Есифу
+ ми\, которого Миядзаки прочил себе в нас
+ ледники\, но тот умер.\n\nТрейлер: https://www.yout
+ ube.com/watch?v=YEcPctFgOuM\n\nПодробнее: https://www.afisha.ru/p
+ rm/schedule_cinema_product/shepot-serdca-178128/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/shepot-serdca-178128
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Последний рубеж
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260813T075022Z
+UID:posledniy-rubezh-216197-2026-08-14@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана США\nКинопоиск: 6.6\n\nО фил
+ ьме Во время Арденнской операции ранены
+ й американский офицер Джон Касл оказыва
+ ется в тылу врага. Оставшийся единственн
+ ым выжившим в отряде\, он пытается пробит
+ ься к своим\, имея при себе лишь военный р
+ адиопередатчик. Теперь Каслу надо будет 
+ попытаться выжить\, но это будет весьма н
+ епросто.\n\nТрейлер: https://www.youtube.com/watch?v=Y_O7puX
+ ja-E\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_prod
+ uct/posledniy-rubezh-216197/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/posledniy-rubezh-216
+ 197/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 �Время сиять
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260813T075022Z
+UID:vremya-siyat-1004089-2026-08-13@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:12+\nСтрана Южная Корея\n\nО фильме У
+ джин — подающий надежды школьный бейсбо
+ лист\, чья карьера оказывается под угроз
+ ой из-за внезапной потери контроля над с
+ воей коронной подачей. Команда перестае
+ т в него верить\, парень впадает в отчаян
+ ие. Но все меняется с появлением таинств
+ енного студента Квон Тэхи\, который неож
+ иданно станови...\n\nПодробнее: https://www.afisha.r
+ u/prm/schedule_cinema_product/vremya-siyat-1004089/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/vremya-siyat-1004089
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Терминатор-2: Судный день
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260824
+DTSTAMP:20260813T075022Z
+UID:terminator-2-sudniy-den-168032-2026-08-24@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана США\nIMDb: 8.6\nКинопоиск: 8.4\n
+ \nЛегендарный боевик Джеймса Кэмерона пр
+ о киборга\, спасающего мир «Нет судьбы» 
+ — вырезает ножом на дощатом столе Сара К
+ оннор (Линда Гамильтон) — мать людского 
+ Сопротивления\, которое под руководство
+ м ее сына Джона в постапокалиптическом б
+ удущем воюет с машинами и злым искусстве
+ нным разумом Скайнет. Но\,...\n\nТрейлер: https
+ ://www.youtube.com/watch?v=CRRlbK5w8AE\n\nПодробнее: https://www.
+ afisha.ru/prm/schedule_cinema_product/terminator-2-sudniy-den-168032/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/terminator-2-sudniy-
+ den-168032/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Демоны Черной горы
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260813T075022Z
+UID:demony-cherniy-gory-1004210-2026-08-14@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Индонезия\n\nО фильме Чер
+ ная гора — загадочное и очень популярно
+ е место среди туристов. Когда парень Ави
+ ндии\, отправившийся туда\, перестает вых
+ одить на связь\, она собирает компанию\, ч
+ тобы начать поиски. Чем ближе друзья под
+ ходят к горам\, тем явственнее ощущают пр
+ исутствие паранормальных сил.\n\nТрейлер:
+  https://www.youtube.com/watch?v=CpmxfNHdnqY\n\nПодробнее: https:
+ //www.afisha.ru/prm/schedule_cinema_product/demony-cherniy-gory-1004210/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/demony-cherniy-gory-
+ 1004210/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Хитрый койот
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260911
+DTSTAMP:20260813T075022Z
+UID:hitriy-kiyot-265523-2026-09-11@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:12+\nСтрана США\nСредняя цена: 436 ₽\n\n
+ О фильме После десятилетий\, в течение ко
+ торых бомбы разрывали Койота на куски\, д
+ инамит подрывал\, магниты калечили\, валу
+ ны расплющивали\, поезда переезжали\, пру
+ жины подбрасывали\, ракеты сотрясали\, ре
+ активные коньки сбивали с ног\, а многочи
+ сленные изобретения раз за разом отправ
+ ляли его в полет с очере...\n\nТрейлер: https://
+ www.youtube.com/watch?v=fY_gBf8QVR0\n\nПодробнее: https://www.afi
+ sha.ru/prm/schedule_cinema_product/hitriy-kiyot-265523/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/hitriy-kiyot-265523/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 В�се\, что мы потеряли
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260803
+DTSTAMP:20260813T075022Z
+UID:vse-chto-my-poteryali-1003861-2026-08-03@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Испания\n\nО фильме После
+  смерти родителей Лея перестала мечтать\
+ , рисовать и радоваться жизни. Единствен
+ ным человеком\, способным вернуть ей вер
+ у в себя\, становится Аксель — лучший дру
+ г ее брата. Постепенно между ними возник
+ ает особая связь\, способная изменить их 
+ жизни раз и навсегда.\n\nТрейлер: https://www.yout
+ ube.com/watch?v=WMXm0KKGrdM\n\nПодробнее: https://www.afisha.ru/p
+ rm/schedule_cinema_product/vse-chto-my-poteryali-1003861/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/vse-chto-my-poteryal
+ i-1003861/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Де�монолог
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260809
+DTSTAMP:20260813T075022Z
+UID:demonolog-1004025-2026-08-09@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Япония\n\nО фильме Новые 
+ хозяева загородной гостиницы нанимают д
+ евушку-демонолога изгнать призрака\, пуг
+ ающего постетителей. Айри быстро понима
+ ет\, что это демон и он одновременно прин
+ адлежит как миру мертвых\, так и миру жив
+ ых. Главное правило Айри — никогда не ра
+ ботать ночью. Но чтобы победить этого де
+ мона\, ей...\n\nТрейлер: https://www.youtube.com/watch?v=lkBg
+ s67r9Pg\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_p
+ roduct/demonolog-1004025/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/demonolog-1004025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Во власти страха
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260813T075022Z
+UID:vo-vlasti-straha-1003789-2026-08-14@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана США\nIMDb: 7.3\n\nО фильме Пят
+ еро друзей опускаются в клетке на морско
+ е дно\, чтобы пощекотать нервы\, наблюдая 
+ за белыми акулами. Но опасная забава пер
+ ерастает в схватку со смертью\, когда на 
+ лодку проникает расчетливый и безжалост
+ ный контрабандист. Он требует ныряльщик
+ ов покинуть клетку и поднять на борт зат
+ онувший не...\n\nТрейлер: https://www.youtube.com/watch?v=
+ EkCwaX3Xl5U\n\nПодробнее: https://www.afisha.ru/prm/schedule_cine
+ ma_product/vo-vlasti-straha-1003789/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/vo-vlasti-straha-100
+ 3789/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Ограбить Лондон
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260731
+DTSTAMP:20260813T075022Z
+UID:ograbit-london-1002435-2026-07-31@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Великобритания\nКинопои
+ ск: 6.2\n\nО фильме В центре Лондона находят
+  неразорвавшуюся бомбу времен Второй ми
+ ровой. Людей из соседних домов эвакуирую
+ т\, включая работников крупнейшего банка
+  Великобритании. Именно в этот момент та
+ м находится крупная партия алмазов. Каза
+ лось бы\, как связаны эти события? Ответ з
+ нает команда первоклассных в...\n\nТрейлер
+ : https://www.youtube.com/watch?v=l1aRvHb3e3M\n\nПодробнее: https
+ ://www.afisha.ru/prm/schedule_cinema_product/ograbit-london-1002435/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/ograbit-london-10024
+ 35/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Драйв
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260906
+DTSTAMP:20260813T075022Z
+UID:drayv-205835-2026-09-06@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана США\nIMDb: 7.8\nКинопоиск: 7.2\n
+ \nГрандиозная драма Николаса Виндинга Ре
+ фна про каскадера и автомеханика Челове
+ к работает в автомастерской\, по утрам по
+ драбатывает каскадером в кино\, а ночью м
+ астерски увозит налетчиков с мест налет
+ ов\; все это — не меняясь в лице и практич
+ ески не снимая красивой серебряной курт
+ ки. По соседству с ним м...\n\nТрейлер: https://w
+ ww.youtube.com/watch?v=KBiOF3y1W0Y\n\nПодробнее: https://www.afis
+ ha.ru/prm/schedule_cinema_product/drayv-205835/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/drayv-205835/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Капкан времени
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260813T075022Z
+UID:kapkan-vremeni-1004030-2026-08-14@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана США\n\nО фильме Недалекое
+  будущее. Улицы кишат негодяями всех мас
+ тей. Корпорация\, желающая получить един
+ оличную власть\, выпускает смертоносные 
+ часы для преступников\, заставляя их уни
+ чтожать друг друга ради свободы. Только 
+ один из них может свергнуть всю систему 
+ изнутри.\n\nТрейлер: https://www.youtube.com/watch?v=taBR9SD
+ AMrY\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_prod
+ uct/kapkan-vremeni-1004030/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/kapkan-vremeni-10040
+ 30/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Мегрэ и убийство в высшем общест
+ ве
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260813T075022Z
+UID:megre-i-ubiystvo-v-vysshem-obshchestve-1004157-2026-08-14@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Франция\n\nО фильме Комис
+ сару Мегрэ поручено расследование делик
+ атного дела: в своей парижской квартире 
+ обнаружен мертвым бывший посол. Его смер
+ ть грозит раскрыть тайны французской ар
+ истократии — за безупречной репутацией 
+ скрываются любовные связи\, борьба за на
+ следство и давние секреты.\n\nТрейлер: https:
+ //www.youtube.com/watch?v=UBsytGZ77bw\n\nПодробнее: https://www.a
+ fisha.ru/prm/schedule_cinema_product/megre-i-ubiystvo-v-vysshem-obshchestv
+ e-1004157/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/megre-i-ubiystvo-v-v
+ ysshem-obshchestve-1004157/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 40 свиданий\, 40 ночей
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260813T075022Z
+UID:40-svidaniy-40-nochey-1003694-2026-08-14@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана США\n\nО фильме У Леи в жи
+ зни все под контролем… кроме мужчин и ар
+ енды за квартиру\, которую надо платить. 
+ После очередного неудачного свидания ба
+ бушка предлагает героине сделку: найти д
+ остойного парня за 40 свиданий\, и та покр
+ оет аренду ее квартиры на целый год.\n\nТр
+ ейлер: https://www.youtube.com/watch?v=12vMdt4cYko\n\nПодробн
+ ее: https://www.afisha.ru/prm/schedule_cinema_product/40-svidaniy-40-noc
+ hey-1003694/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/40-svidaniy-40-noche
+ y-1003694/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 Материя времени
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:materiya-vremeni-1004051-2026-08-19@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:16+\nСтрана Австралия\nIMDb: 3.5\n\nО филь
@@ -611,216 +496,49 @@ URL:https://www.afisha.ru/prm/schedule_cinema_product/materiya-vremeni-100
  4051/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 Самурай и пленник
+SUMMARY:🎬 Скиталец-2
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260812T074847Z
-UID:samuray-i-plennik-1003692-2026-08-14@perm-cinema
+DTSTAMP:20260813T075022Z
+UID:skitalec-2-1004342-2026-08-14@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Япония\n\nО фильме Пока с
- амурай героически обороняет свой замок 
- от осаждающих врагов\, внутри его стен ра
- зворачивается череда загадочных убийст
- в. Оказавшись перед лицом таинственного 
- убийцы\, скрывающегося среди обитателей 
- замка\, он вынужден объединиться со свои
- м пленником — блестящим военным стратег
- ом\, чтобы р...\n\nТрейлер: https://www.youtube.com/watch?v
- =Atbq8-_7oso\n\nПодробнее: https://www.afisha.ru/prm/schedule_cin
- ema_product/samuray-i-plennik-1003692/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/samuray-i-plennik-10
- 03692/
+DESCRIPTION:16+\nСтрана Индия\nСредняя цена: 420 ₽
+ \n\nО фильме Шивам возвращается в кримина
+ льный мир\, где его дальнейший путь требу
+ ет искупления\, любви и самопожертвовани
+ я. По мере того как отношения углубляютс
+ я\, а конфликты обостряются\, каждый выбо
+ р испытывает его решимость и определяет 
+ его судьбу.\n\nТрейлер: https://www.youtube.com/watch?v=qk
+ aSXCqdecM\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema
+ _product/skitalec-2-1004342/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/skitalec-2-1004342/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 TheatreHD: Курентзис. Идоменей
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260808
-DTSTAMP:20260812T074847Z
-UID:theatrehd-kurentzis-idomeney-1001201-2026-08-08@perm-cinema
+SUMMARY:🎬 Битва 1947
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260813T075022Z
+UID:bitva-1947-1004302-2026-08-14@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:16+\nСтрана Австрия\n\nО фильме Танде
- м Питера Селларса и Теодора Курентзиса в
-  Зальцбурге: оригинальное прочтение опе
- ры Моцарта в контексте современных экол
- огических и мировоззренческих проблем.\n
- В постановке Питера Селларса сверхъесте
- ственная ярость Нептуна вызвана загрязн
- ением океана\, а царем Идоменеем\, собрав
- шимся принес...\n\nТрейлер: https://www.youtube.com/watc
- h?v=5eTP-ELR8lc\n\nПодробнее: https://www.afisha.ru/prm/schedule_
- cinema_product/theatrehd-kurentzis-idomeney-1001201/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/theatrehd-kurentzis-
- idomeney-1001201/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 �Итальянские каникулы
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260812T074847Z
-UID:italyanskie-kanikuly-264629-2026-08-12@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:12+\nСтрана Италия\nКинопоиск: 7.2\n\nИ
- скрометная курортная комедия с легендар
- ной актерской троицей Три миланские сем
- ьи по чистой случайности\, а также дурной
-  ошибке турагентства\, арендуют на отпус
- к один и тот же загородный дом на острове
-  в Апулии. Теперь им предстоит провести п
- од одной крышей длинное знойное лето — с
- итуацию\, разумеется\,...\n\nТрейлер: https://www.
- youtube.com/watch?v=wgfE_VvTD20\n\nПодробнее: https://www.afisha.
- ru/prm/schedule_cinema_product/italyanskie-kanikuly-264629/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/italyanskie-kanikuly
- -264629/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Ла�биринт чудовищ
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260804
-DTSTAMP:20260812T074847Z
-UID:labirint-chudovishch-1000107-2026-08-04@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Польша\nКинопоиск: 5.8\n\nО 
- фильме Бывший актер Люциан попадает в бо
- льницу\, куда его отправляет семья на леч
- ение. За ее странными правилами скрывает
- ся тайна\, выяснить которую можно только 
- спустившись в спрятанный в подвалах леч
- ебницы мир-лабиринт. За каждым поворотом
-  лабиринта Люциана ждет жуткое испытани
- е.\n\nТрейлер: https://www.youtube.com/watch?v=mXJ7kjRJrAU\n\nПо
- дробнее: https://www.afisha.ru/prm/schedule_cinema_product/labirint
- -chudovishch-1000107/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/labirint-chudovishch
- -1000107/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Павильон на воде
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260812T074847Z
-UID:pavilon-na-vode-1003996-2026-08-10@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Италия\nIMDb: 7.1\n\nО фильме 
- Архитектура как поэзия. Дзен-кино о том\, 
- как венецианец Карло Скарпа постигал су
- ть прекрасного в Японии.\nЯпония была для
-  Скарпы не только вселенной\, дарящей вдо
- хновение\, но и местом\, где он\, на пике ка
- рьеры\, окончил свой земной путь в 1978 год
- у\, повторив судьбу странствующего поэта
-  Мацуо Ба...\n\nТрейлер: https://www.youtube.com/watch?v=fJ_
- 6YoM0Yk8\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_
- product/pavilon-na-vode-1003996/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/pavilon-na-vode-1003
- 996/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Тони
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260807
-DTSTAMP:20260812T074847Z
-UID:toni-1003926-2026-08-07@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана США\nКинопоиск: 6.0\n\nО фил
- ьме Лето в Провинстауне пахнет океаном\, 
- солнцем и устрицами\, а целый год здесь у
- мещается в несколько курортных месяцев. 
- 19-летний Тони приезжает сюда без четких 
- планов на жизнь — с амбициями стать писа
- телем и желанием покорить девушку. Случа
- йная подработка на кухне местного ресто
- рана превращает...\n\nТрейлер: https://www.youtube.co
- m/watch?v=jquFlCZ9h5E\n\nПодробнее: https://www.afisha.ru/prm/sch
- edule_cinema_product/toni-1003926/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/toni-1003926/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Де�монолог
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260809
-DTSTAMP:20260812T074847Z
-UID:demonolog-1004025-2026-08-09@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Япония\n\nО фильме Новые 
- хозяева загородной гостиницы нанимают д
- евушку-демонолога изгнать призрака\, пуг
- ающего постетителей. Айри быстро понима
- ет\, что это демон и он одновременно прин
- адлежит как миру мертвых\, так и миру жив
- ых. Главное правило Айри — никогда не ра
- ботать ночью. Но чтобы победить этого де
- мона\, ей...\n\nТрейлер: https://www.youtube.com/watch?v=lkBg
- s67r9Pg\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_p
- roduct/demonolog-1004025/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/demonolog-1004025/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Сила утопии: Ле Корбюзье в Чандиг
- архе
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260810
-DTSTAMP:20260812T074847Z
-UID:sila-utopii-le-korbyuze-v-chandigarhe-1003345-2026-08-10@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Швейцария\n\nО фильме Гор
- од-сказка\, город-мечта. Индийский экспер
- имент Ле Корбюзье по проектированию нов
- ого общества через архитектуру.\nВскоре 
- после Раздела Индии и освобождения от бр
- итанского колониального господства у по
- дножия Гималаев предстояло построить с 
- нуля новую столицу Пенджаба\, поскольку 
- бывшая столиц...\n\nТрейлер: https://www.youtube.com/wa
- tch?v=bZwmSWfJMaQ\n\nПодробнее: https://www.afisha.ru/prm/schedul
- e_cinema_product/sila-utopii-le-korbyuze-v-chandigarhe-1003345/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/sila-utopii-le-korby
- uze-v-chandigarhe-1003345/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 �Канье Уэст: Во имя кого?
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260911
-DTSTAMP:20260812T074847Z
-UID:kane-uest-vo-imya-kogo-1003532-2026-09-11@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана США\nКинопоиск: 7.3\n\nО фил
- ьме Документальный фильм 2025 года\, созда
- нный Нико Бальестеросом\, который на про
- тяжении 6 лет документировал жизнь и тво
- рчество американского рэпера и дизайнер
- а Йе (ранее Канье Уэст). Фильм предлагает 
- иммерсивный взгляд на противоречивую ли
- чность артиста.\n\nТрейлер: https://www.youtube.com/wa
- tch?v=GXecSGmQDEI\n\nПодробнее: https://www.afisha.ru/prm/schedul
- e_cinema_product/kane-uest-vo-imya-kogo-1003532/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/kane-uest-vo-imya-ko
- go-1003532/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Кофе и сигареты
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260812T074847Z
-UID:kofe-i-sigarety-173214-2026-08-16@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:16+\nСтрана США\nIMDb: 7.0\nКинопоиск: 7.6\n
- \nДжим Джармуш о пользе вредных привычек 
- Разные приятные люди\, от Тома Уэйтса до 
- Кейт Бланшетт\, встречаются и болтают о т
- ом о сем. Фильм\, состоящий из коротких фр
- агментов\, которые Джармуш потихоньку сн
- имал на протяжении многих лет.\n\nТрейлер:
-  https://www.youtube.com/watch?v=mM6Mpn0-eyQ\n\nПодробнее: https:
- //www.afisha.ru/prm/schedule_cinema_product/kofe-i-sigarety-173214/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/kofe-i-sigarety-1732
- 14/
+DESCRIPTION:16+\nСтрана Индия\nIMDb: 6.6\n\nО фильме П
+ осле раздела Индии и Пакистана в 1947 году 
+ главный герой (Санни Деол) бежит из Мирут
+ а со своей семьей и прибывает в Лахор. Им 
+ выделяют большой дом\, покинутый индуист
+ ской семьей во время хаоса раздела. Но до
+ м не пустует. Внутри все еще живет пожила
+ я индуистка\, заботливая\, глубоко привяз
+ анна...\n\nТрейлер: https://www.youtube.com/watch?v=T4h5cuzJM10
+ \n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_product/
+ bitva-1947-1004302/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/bitva-1947-1004302/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 Большая арка
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:bolshaya-arka-1000836-2026-08-19@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:18+\nСтрана Франция\nКинопоиск: 7.0\n\n
@@ -838,193 +556,31 @@ URL:https://www.afisha.ru/prm/schedule_cinema_product/bolshaya-arka-100083
  6/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 Борьба за Бруклин
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20260812T074847Z
-UID:borba-za-bruklin-1003967-2026-08-20@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана США\n\nО фильме Премьера 
- фестиваля «Трайбека» и лучший документа
- льный фильм десятилетия о Нью-Йорке. Как 
- джентрификация меняет города и жизни.\nБ
- олее десяти лет в пределах одного брукли
- нского района формируется микрокосм аме
- риканской демократии. Жители Сансет-Пар
- ка сталкиваются со сложной проблемой: ра
- стуще...\n\nТрейлер: https://www.youtube.com/watch?v=IuLYyEfWh
- Z4\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_produc
- t/borba-za-bruklin-1003967/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/borba-za-bruklin-100
- 3967/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Затмение
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260907
-DTSTAMP:20260812T074847Z
-UID:zatmenie-166015-2026-09-07@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:16+\nСтрана Италия\nIMDb: 7.7\nКинопоиск:
-  7.8\n\nГипнотическая мелодрама Микеландже
- ло Антониони Виктория расстается со сво
- им женихом\, писателем Рикардо. Она отпра
- вляется в центр города\, где знакомится с
-  биржевым брокером. с которым оказываетс
- я вовлечена в еще более безнадежные отно
- шения.\n\nТрейлер: https://www.youtube.com/watch?v=SHUapLYEi4s
- \n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_product/
- zatmenie-166015/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/zatmenie-166015/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Надежда
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260909
-DTSTAMP:20260812T074847Z
-UID:nadezhda-1003581-2026-09-09@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Южная Корея\n\nО фильме О
- хотничья находка в глуши портового горо
- дка запускает обратный отсчет для челов
- ечества. Жители оказываются один на один
-  с инопланетным кошмаром\, не поддающимс
- я земной логике.\n\nТрейлер: https://www.youtube.com/w
- atch?v=GDCAN0A5mSU\n\nПодробнее: https://www.afisha.ru/prm/schedu
- le_cinema_product/nadezhda-1003581/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/nadezhda-1003581/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Капкан времени
+SUMMARY:🎬 Самурай и пленник
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260812T074847Z
-UID:kapkan-vremeni-1004030-2026-08-14@perm-cinema
+DTSTAMP:20260813T075022Z
+UID:samuray-i-plennik-1003692-2026-08-14@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана США\nСредняя цена: 492 ₽\n\n
- О фильме Недалекое будущее. Улицы кишат 
- негодяями всех мастей. Корпорация\, жела
- ющая получить единоличную власть\, выпус
- кает смертоносные часы для преступников
- \, заставляя их уничтожать друг друга рад
- и свободы. Только один из них может сверг
- нуть всю систему изнутри.\n\nТрейлер: https://
- www.youtube.com/watch?v=taBR9SDAMrY\n\nПодробнее: https://www.afi
- sha.ru/prm/schedule_cinema_product/kapkan-vremeni-1004030/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/kapkan-vremeni-10040
- 30/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Зеленое на сером
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260811
-DTSTAMP:20260812T074847Z
-UID:zelenoe-na-serom-1004092-2026-08-11@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Италия\n\nО фильме Где пр
- ирода побеждает бетон: медитативное пут
- ешествие к истокам зеленой революции Эм
- илио Амбаса.\nФильм рассказывает о новат
- орской работе аргентинского архитектор
- а Эмилио Амбаса — человека\, который одн
- им из первых сделал природу главной осью
-  урбанистических перемен. \n\nРодившийся 
- в 1943 году\,...\n\nТрейлер: https://www.youtube.com/watch?v=Q
- wZ2JG7i2nQ\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinem
- a_product/zelenoe-na-serom-1004092/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/zelenoe-na-serom-100
- 4092/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Леверенц. Божественная тьма
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260816
-DTSTAMP:20260812T074847Z
-UID:leverenc-bozhestvennaya-tma-1003997-2026-08-16@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Швеция\n\nО фильме «Карав
- аджо» в мире архитектуры. Загадка главно
- го шведского модерниста-интроверта.\nСиг
- урд Леверенц — один из самых известных ш
- ведских архитекторов\, признанный масте
- ром своего дела на международном уровне.
-  Его уникальные решения опередили свое в
- ремя на десятилетия. Его здания до сих по
- р воспр...\n\nТрейлер: https://www.youtube.com/watch?v=wViDWm
- 6a0xA\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_pro
- duct/leverenc-bozhestvennaya-tma-1003997/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/leverenc-bozhestvenn
- aya-tma-1003997/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Миа и монстры
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260829
-DTSTAMP:20260812T074847Z
-UID:mia-i-monstry-1003743-2026-08-29@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:6+\nСтрана Германия\n\nО фильме Миа\, 
- которая не очень ладит с окружающими\, ме
- чтает доказать жителям своего скучного 
- города\, что монстры существуют на самом 
- деле и они совсем не такие опасные\, как р
- ассказывают в сказках. Такой шанс ей пре
- дставляется\, когда она вместе со своим д
- ругом\, крысой Квентином\, попадает в Ака
- демию Р...\n\nТрейлер: https://www.youtube.com/watch?v=etKKZR
- iuSu4\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_pro
- duct/mia-i-monstry-1003743/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/mia-i-monstry-100374
- 3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 �Жертва обстоятельств
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260812T074847Z
-UID:zhertva-obstoyatelstv-1004194-2026-08-19@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Великобритания\n\nО филь
- ме Участники благотворительного меропр
- иятия в Греции больше похожи на гостей з
- акрытой голливудской вечеринки\, чем на 
- борцов за спасение планеты. Среди них — 
- переживающий не �лучшие времена актер М
- айк Тайлер\, мечтающий вернуть себе былу
- ю популярность. Привычный ход этой ярмар
- ки тщеславия наруша...\n\nТрейлер: https://www.you
- tube.com/watch?v=XlpgZRiLeGU\n\nПодробнее: https://www.afisha.ru/
- prm/schedule_cinema_product/zhertva-obstoyatelstv-1004194/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/zhertva-obstoyatelst
- v-1004194/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 Дэ�вид Боуи: Последняя глава
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260917
-DTSTAMP:20260812T074847Z
-UID:devid-boui-poslednyaya-glava-1003351-2026-09-17@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Великобритания\nIMDb: 7.2\nК
- инопоиск: 7.7\n\nО фильме Фильм к десятилет
- ию со смерти Дэвида Боуи\, снятый с неожи
- данного ракурса: не бравурный портрет Зи
- гги Стардаста\, а история о том\, как хаме
- леон поп-музыки справлялся с провалами\, 
- сомнениями и смертельным диагнозом — и 
- превратил свои последние дни в пронзите
- льный прощальный альбом Blackstar.\n\nТрейлер:
-  https://www.youtube.com/watch?v=30JupZYWCCA\n\nПодробнее: https:
- //www.afisha.ru/prm/schedule_cinema_product/devid-boui-poslednyaya-glava-1
- 003351/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/devid-boui-poslednya
- ya-glava-1003351/
+DESCRIPTION:18+\nСтрана Япония\n\nО фильме Пока с
+ амурай героически обороняет свой замок 
+ от осаждающих врагов\, внутри его стен ра
+ зворачивается череда загадочных убийст
+ в. Оказавшись перед лицом таинственного 
+ убийцы\, скрывающегося среди обитателей 
+ замка\, он вынужден объединиться со свои
+ м пленником — блестящим военным стратег
+ ом\, чтобы р...\n\nТрейлер: https://www.youtube.com/watch?v
+ =Atbq8-_7oso\n\nПодробнее: https://www.afisha.ru/prm/schedule_cin
+ ema_product/samuray-i-plennik-1003692/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/samuray-i-plennik-10
+ 03692/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 �Мошенники
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:moshenniki-1003818-2026-08-19@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:18+\nСтрана Казахстан\nКинопоиск: 8.1\
@@ -1044,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 К�рипипаста: Синий малыш
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:kripipasta-siniy-malysh-1001892-2026-08-25@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:18+\nСтрана США\n\nО фильме Молодые л
@@ -1062,31 +618,423 @@ URL:https://www.afisha.ru/prm/schedule_cinema_product/kripipasta-siniy-mal
  ysh-1001892/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 Демоны Черной горы
+SUMMARY:🎬 Тони
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260807
+DTSTAMP:20260813T075022Z
+UID:toni-1003926-2026-08-07@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана США\nКинопоиск: 6.0\n\nО фил
+ ьме Лето в Провинстауне пахнет океаном\, 
+ солнцем и устрицами\, а целый год здесь у
+ мещается в несколько курортных месяцев. 
+ 19-летний Тони приезжает сюда без четких 
+ планов на жизнь — с амбициями стать писа
+ телем и желанием покорить девушку. Случа
+ йная подработка на кухне местного ресто
+ рана превращает...\n\nТрейлер: https://www.youtube.co
+ m/watch?v=jquFlCZ9h5E\n\nПодробнее: https://www.afisha.ru/prm/sch
+ edule_cinema_product/toni-1003926/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/toni-1003926/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 �Канье Уэст: Во имя кого?
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260911
+DTSTAMP:20260813T075022Z
+UID:kane-uest-vo-imya-kogo-1003532-2026-09-11@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана США\nКинопоиск: 7.3\n\nО фил
+ ьме Документальный фильм 2025 года\, созда
+ нный Нико Бальестеросом\, который на про
+ тяжении 6 лет документировал жизнь и тво
+ рчество американского рэпера и дизайнер
+ а Йе (ранее Канье Уэст). Фильм предлагает 
+ иммерсивный взгляд на противоречивую ли
+ чность артиста.\n\nТрейлер: https://www.youtube.com/wa
+ tch?v=GXecSGmQDEI\n\nПодробнее: https://www.afisha.ru/prm/schedul
+ e_cinema_product/kane-uest-vo-imya-kogo-1003532/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/kane-uest-vo-imya-ko
+ go-1003532/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Параллельные истории
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260818
+DTSTAMP:20260813T075022Z
+UID:parallelnye-istorii-1003862-2026-08-18@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Франция\n\nО фильме Писат
+ ельница Сильви живет в одиночестве и наб
+ людает за соседями через телескоп\, прев
+ ращая их жизни в фикшн. В своем романе он
+ а добавляет в их отношения драму\, страст
+ ь\, ревность и предательство. В это время 
+ в ее собственной жизни появляется помощ
+ ник Адам. Он влюбляется в живущую напрот
+ ив Нит...\n\nТрейлер: https://www.youtube.com/watch?v=NmyY0Pyk
+ pD4\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_produ
+ ct/parallelnye-istorii-1003862/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/parallelnye-istorii-
+ 1003862/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Влюбись в меня\, если осмелишься
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260813T075022Z
+UID:vlyubis-v-menya-esli-osmelishsya-173124-2026-08-13@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Франция\nКинопоиск: 7.7\n\n
+ Мелодрама о мальчике и девочке\, которые 
+ с раннего детства постоянно берут друг д
+ руга на «слабо» Жюльен и Софи с раннего д
+ етства привыкли соревноваться в розыгры
+ шах и шутках на грани фола и продолжают и
+ гру\, уже будучи вполне взрослыми. Романт
+ ическая комедия с активным использовани
+ ем спецэффектов в ду...\n\nТрейлер: https://www.yo
+ utube.com/watch?v=oeJQaiClYBQ\n\nПодробнее: https://www.afisha.ru
+ /prm/schedule_cinema_product/vlyubis-v-menya-esli-osmelishsya-173124/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/vlyubis-v-menya-esli
+ -osmelishsya-173124/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Затмение
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260907
+DTSTAMP:20260813T075022Z
+UID:zatmenie-166015-2026-09-07@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:16+\nСтрана Италия\nIMDb: 7.7\nКинопоиск:
+  7.8\n\nГипнотическая мелодрама Микеландже
+ ло Антониони Виктория расстается со сво
+ им женихом\, писателем Рикардо. Она отпра
+ вляется в центр города\, где знакомится с
+  биржевым брокером. с которым оказываетс
+ я вовлечена в еще более безнадежные отно
+ шения.\n\nТрейлер: https://www.youtube.com/watch?v=SHUapLYEi4s
+ \n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_product/
+ zatmenie-166015/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/zatmenie-166015/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Миа и монстры
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260829
+DTSTAMP:20260813T075022Z
+UID:mia-i-monstry-1003743-2026-08-29@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:6+\nСтрана Германия\n\nО фильме Миа\, 
+ которая не очень ладит с окружающими\, ме
+ чтает доказать жителям своего скучного 
+ города\, что монстры существуют на самом 
+ деле и они совсем не такие опасные\, как р
+ ассказывают в сказках. Такой шанс ей пре
+ дставляется\, когда она вместе со своим д
+ ругом\, крысой Квентином\, попадает в Ака
+ демию Р...\n\nТрейлер: https://www.youtube.com/watch?v=etKKZR
+ iuSu4\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_pro
+ duct/mia-i-monstry-1003743/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/mia-i-monstry-100374
+ 3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 TheatreHD: Брегенцский фестиваль. Анд
+ ре Шенье
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260813T075022Z
+UID:theatrehd-bregencskiy-festival-andre-shene-216913-2026-08-26@perm-cine
+ ma
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Австрия\n\nО фильме «Смер
+ ть Марата» (и не только!) на Боденском озе
+ ре. Спектакль-зеркало Французской револ
+ юции\, из которой никто не вышел «сухим».\
+ nОпера Умберто Джордано «Андре Шенье» на
+  Брегенцском фестивале — не просто пост
+ ановка\, а настоящее визуальное заявлени
+ е. Режиссеры Феликс Брайзах («Пассажирка
+ »\, Брег...\n\nТрейлер: https://www.youtube.com/watch?v=vhAAos
+ wRp9Y\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_pro
+ duct/theatrehd-bregencskiy-festival-andre-shene-216913/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/theatrehd-bregencski
+ y-festival-andre-shene-216913/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 «Сделано в Милане»: история Арма
+ ни и итальянской моды
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260912
+DTSTAMP:20260813T075022Z
+UID:sdelano-v-milane-istoriya-armani-i-italyanskoy-mody-1003533-2026-09-12
+ @perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Италия\nСредняя цена: 350 
+ ₽\n\nО фильме Документальный фильм\, расс
+ казывающий о жизни и творчестве легенда
+ рного Джорджо Армани. Картина исследует\
+ , как маэстро перекроил мировую индустри
+ ю и превратил Милан в одну из главных мод
+ ных столиц.\n\nТрейлер: https://www.youtube.com/watch?v=a9
+ nmpmP_3VQ\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema
+ _product/sdelano-v-milane-istoriya-armani-i-italyanskoy-mody-1003533/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/sdelano-v-milane-ist
+ oriya-armani-i-italyanskoy-mody-1003533/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Дэ�вид Боуи: Последняя глава
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+DTSTAMP:20260813T075022Z
+UID:devid-boui-poslednyaya-glava-1003351-2026-09-17@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Великобритания\nIMDb: 7.2\nК
+ инопоиск: 7.7\n\nО фильме Фильм к десятилет
+ ию со смерти Дэвида Боуи\, снятый с неожи
+ данного ракурса: не бравурный портрет Зи
+ гги Стардаста\, а история о том\, как хаме
+ леон поп-музыки справлялся с провалами\, 
+ сомнениями и смертельным диагнозом — и 
+ превратил свои последние дни в пронзите
+ льный прощальный альбом Blackstar.\n\nТрейлер:
+  https://www.youtube.com/watch?v=30JupZYWCCA\n\nПодробнее: https:
+ //www.afisha.ru/prm/schedule_cinema_product/devid-boui-poslednyaya-glava-1
+ 003351/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/devid-boui-poslednya
+ ya-glava-1003351/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 �Жертва обстоятельств
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260813T075022Z
+UID:zhertva-obstoyatelstv-1004194-2026-08-19@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Великобритания\n\nО филь
+ ме Участники благотворительного меропр
+ иятия в Греции больше похожи на гостей з
+ акрытой голливудской вечеринки\, чем на 
+ борцов за спасение планеты. Среди них — 
+ переживающий не �лучшие времена актер М
+ айк Тайлер\, мечтающий вернуть себе былу
+ ю популярность. Привычный ход этой ярмар
+ ки тщеславия наруша...\n\nТрейлер: https://www.you
+ tube.com/watch?v=XlpgZRiLeGU\n\nПодробнее: https://www.afisha.ru/
+ prm/schedule_cinema_product/zhertva-obstoyatelstv-1004194/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/zhertva-obstoyatelst
+ v-1004194/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Павильон на воде
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260810
+DTSTAMP:20260813T075022Z
+UID:pavilon-na-vode-1003996-2026-08-10@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Италия\nIMDb: 7.1\n\nО фильме 
+ Архитектура как поэзия. Дзен-кино о том\, 
+ как венецианец Карло Скарпа постигал су
+ ть прекрасного в Японии.\nЯпония была для
+  Скарпы не только вселенной\, дарящей вдо
+ хновение\, но и местом\, где он\, на пике ка
+ рьеры\, окончил свой земной путь в 1978 год
+ у\, повторив судьбу странствующего поэта
+  Мацуо Ба...\n\nТрейлер: https://www.youtube.com/watch?v=fJ_
+ 6YoM0Yk8\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_
+ product/pavilon-na-vode-1003996/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/pavilon-na-vode-1003
+ 996/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 TheatreHD: Эдвард Клюг. Кармина Бурана
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260818
+DTSTAMP:20260813T075022Z
+UID:theatrehd-edvard-klyug-karmina-burana-308086-2026-08-18@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:16+\nСтрана Словения\n\nО фильме В же
+ рновах колеса фортуны: эволюция жизни и 
+ геометрия чувств в балете Эдварда Клюга.
+ \nВ основе «Кармины Бураны»\, эпической к
+ антаты Карла Орфа\, написанной в начале XX
+  столетия по манускриптам XIII века\, — сре
+ дневековые размышления о человеческой с
+ удьбе и ее переменчивости. Крутится коле
+ со фор...\n\nТрейлер: https://www.youtube.com/watch?v=nrxmHAtK
+ PgM\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_produ
+ ct/theatrehd-edvard-klyug-karmina-burana-308086/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/theatrehd-edvard-kly
+ ug-karmina-burana-308086/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Зальцбург: Итальянка в Алжире
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260830
+DTSTAMP:20260813T075022Z
+UID:zalcburg-italyanka-v-alzhire-257783-2026-08-30@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:16+\nСтрана Австрия\n\nО фильме Чечил
+ ия Бартоли и Ильдар Абдразаков в сатирич
+ еской зальцбургской постановке искроме
+ тной оперы Россини.\nОдна из лучших оперн
+ ых комедий — «Итальянка в Алжире» Росси
+ ни — была написана в 1813 году в расчете на
+  знаменитую звездную пару контральто и б
+ аса своего времени. В 2018 году в Зальцбург
+ е э...\n\nТрейлер: https://www.youtube.com/watch?v=pquiHWHHEPQ\n\
+ nПодробнее: https://www.afisha.ru/prm/schedule_cinema_product/zal
+ cburg-italyanka-v-alzhire-257783/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/zalcburg-italyanka-v
+ -alzhire-257783/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Кофе и сигареты
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260813T075022Z
+UID:kofe-i-sigarety-173214-2026-08-16@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:16+\nСтрана США\nIMDb: 7.0\nКинопоиск: 7.6\n
+ \nДжим Джармуш о пользе вредных привычек 
+ Разные приятные люди\, от Тома Уэйтса до 
+ Кейт Бланшетт\, встречаются и болтают о т
+ ом о сем. Фильм\, состоящий из коротких фр
+ агментов\, которые Джармуш потихоньку сн
+ имал на протяжении многих лет.\n\nТрейлер:
+  https://www.youtube.com/watch?v=mM6Mpn0-eyQ\n\nПодробнее: https:
+ //www.afisha.ru/prm/schedule_cinema_product/kofe-i-sigarety-173214/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/kofe-i-sigarety-1732
+ 14/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Борьба за Бруклин
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260820
+DTSTAMP:20260813T075022Z
+UID:borba-za-bruklin-1003967-2026-08-20@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана США\n\nО фильме Премьера 
+ фестиваля «Трайбека» и лучший документа
+ льный фильм десятилетия о Нью-Йорке. Как 
+ джентрификация меняет города и жизни.\nБ
+ олее десяти лет в пределах одного брукли
+ нского района формируется микрокосм аме
+ риканской демократии. Жители Сансет-Пар
+ ка сталкиваются со сложной проблемой: ра
+ стуще...\n\nТрейлер: https://www.youtube.com/watch?v=IuLYyEfWh
+ Z4\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_produc
+ t/borba-za-bruklin-1003967/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/borba-za-bruklin-100
+ 3967/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Я — Мартин Парр
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260813T075022Z
+UID:ya-martin-parr-1000781-2026-09-15@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Франция\nКинопоиск: 7.8\nС
+ редняя цена: 350 ₽\n\nО фильме\n\nТрейлер: https
+ ://www.youtube.com/watch?v=60-EJ6RCiTE\n\nПодробнее: https://www.
+ afisha.ru/prm/schedule_cinema_product/ya-martin-parr-1000781/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/ya-martin-parr-10007
+ 81/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Зеленое на сером
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260813T075022Z
+UID:zelenoe-na-serom-1004092-2026-08-11@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Италия\n\nО фильме Где пр
+ ирода побеждает бетон: медитативное пут
+ ешествие к истокам зеленой революции Эм
+ илио Амбаса.\nФильм рассказывает о новат
+ орской работе аргентинского архитектор
+ а Эмилио Амбаса — человека\, который одн
+ им из первых сделал природу главной осью
+  урбанистических перемен. \n\nРодившийся 
+ в 1943 году\,...\n\nТрейлер: https://www.youtube.com/watch?v=Q
+ wZ2JG7i2nQ\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinem
+ a_product/zelenoe-na-serom-1004092/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/zelenoe-na-serom-100
+ 4092/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 TheatreHD: Теодор Курентзис. Бунтарь о
+ т классики
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260812T074847Z
-UID:demony-cherniy-gory-1004210-2026-08-14@perm-cinema
+DTSTAMP:20260813T075022Z
+UID:theatrehd-teodor-kurentzis-buntar-ot-klassiki-1001863-2026-08-14@perm-
+ cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Индонезия\nСредняя цена:
-  520 ₽\n\nО фильме Черная гора — загадочное
-  и очень популярное место среди туристов
- . Когда парень Авиндии\, отправившийся ту
- да\, перестает выходить на связь\, она соб
- ирает компанию\, чтобы начать поиски. Чем
-  ближе друзья подходят к горам\, тем явст
- веннее ощущают присутствие паранормаль
- ных сил.\n\nТрейлер: https://www.youtube.com/watch?v=CpmxfNHd
- nqY\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_produ
- ct/demony-cherniy-gory-1004210/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/demony-cherniy-gory-
- 1004210/
+DESCRIPTION:18+\nСтрана Германия\nКинопоиск: 8.2\n\
+ nО фильме Документальный фильм о революц
+ ионном пути дирижера Теодора Курентзиса
+  и его оркестра musicAeterna.\nЭтот документаль
+ ный фильм 2016 года — редкая возможность у
+ видеть\, как Теодор Курентзис и musicAeterna ра
+ ботали над легендарной записью оперы Мо
+ царта «Дон Жуан»\, получившей множество 
+ престижных...\n\nТрейлер: https://www.youtube.com/watch?v
+ =a6au_dDoHBY\n\nПодробнее: https://www.afisha.ru/prm/schedule_cin
+ ema_product/theatrehd-teodor-kurentzis-buntar-ot-klassiki-1001863/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/theatrehd-teodor-kur
+ entzis-buntar-ot-klassiki-1001863/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Леверенц. Божественная тьма
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260813T075022Z
+UID:leverenc-bozhestvennaya-tma-1003997-2026-08-16@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Швеция\n\nО фильме «Карав
+ аджо» в мире архитектуры. Загадка главно
+ го шведского модерниста-интроверта.\nСиг
+ урд Леверенц — один из самых известных ш
+ ведских архитекторов\, признанный масте
+ ром своего дела на международном уровне.
+  Его уникальные решения опередили свое в
+ ремя на десятилетия. Его здания до сих по
+ р воспр...\n\nТрейлер: https://www.youtube.com/watch?v=wViDWm
+ 6a0xA\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_pro
+ duct/leverenc-bozhestvennaya-tma-1003997/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/leverenc-bozhestvenn
+ aya-tma-1003997/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Сила утопии: Ле Корбюзье в Чандиг
+ архе
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260810
+DTSTAMP:20260813T075022Z
+UID:sila-utopii-le-korbyuze-v-chandigarhe-1003345-2026-08-10@perm-cinema
+CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
+DESCRIPTION:18+\nСтрана Швейцария\n\nО фильме Гор
+ од-сказка\, город-мечта. Индийский экспер
+ имент Ле Корбюзье по проектированию нов
+ ого общества через архитектуру.\nВскоре 
+ после Раздела Индии и освобождения от бр
+ итанского колониального господства у по
+ дножия Гималаев предстояло построить с 
+ нуля новую столицу Пенджаба\, поскольку 
+ бывшая столиц...\n\nТрейлер: https://www.youtube.com/wa
+ tch?v=bZwmSWfJMaQ\n\nПодробнее: https://www.afisha.ru/prm/schedul
+ e_cinema_product/sila-utopii-le-korbyuze-v-chandigarhe-1003345/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/sila-utopii-le-korby
+ uze-v-chandigarhe-1003345/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 Бег — это свобода
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260916
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:beg-eto-svoboda-228562-2026-09-16@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:12+\nСтрана Бельгия\nIMDb: 7.3\nКинопоис
@@ -1107,7 +1055,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Видит бог
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:vidit-bog-1004098-2026-08-21@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:18+\nСтрана Испания\n\nО фильме Ирони
@@ -1124,33 +1072,25 @@ DESCRIPTION:18+\nСтрана Испания\n\nО фильме Ирони
 URL:https://www.afisha.ru/prm/schedule_cinema_product/vidit-bog-1004098/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 TheatreHD: Брегенцский фестиваль. Анд
- ре Шенье
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260826
-DTSTAMP:20260812T074847Z
-UID:theatrehd-bregencskiy-festival-andre-shene-216913-2026-08-26@perm-cine
- ma
+SUMMARY:🎬 Время брутализма
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260916
+DTSTAMP:20260813T075022Z
+UID:vremya-brutalizma-1000788-2026-09-16@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:18+\nСтрана Австрия\n\nО фильме «Смер
- ть Марата» (и не только!) на Боденском озе
- ре. Спектакль-зеркало Французской револ
- юции\, из которой никто не вышел «сухим».\
- nОпера Умберто Джордано «Андре Шенье» на
-  Брегенцском фестивале — не просто пост
- ановка\, а настоящее визуальное заявлени
- е. Режиссеры Феликс Брайзах («Пассажирка
- »\, Брег...\n\nТрейлер: https://www.youtube.com/watch?v=vhAAos
- wRp9Y\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_pro
- duct/theatrehd-bregencskiy-festival-andre-shene-216913/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/theatrehd-bregencski
- y-festival-andre-shene-216913/
+DESCRIPTION:18+\nСтрана Северная Македония\nКин
+ опоиск: 7.4\nСредняя цена: 350 ₽\n\nО фильме\n\n
+ Трейлер: https://www.youtube.com/watch?v=57CJngvMoqg\n\nПодро
+ бнее: https://www.afisha.ru/prm/schedule_cinema_product/vremya-brutali
+ zma-1000788/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/vremya-brutalizma-10
+ 00788/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎬 Миральес
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20260812T074847Z
+DTSTAMP:20260813T075022Z
 UID:mirales-1004097-2026-08-19@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
 DESCRIPTION:18+\nСтрана Испания\n\nО фильме Жизнь
@@ -1167,45 +1107,24 @@ DESCRIPTION:18+\nСтрана Испания\n\nО фильме Жизнь
 URL:https://www.afisha.ru/prm/schedule_cinema_product/mirales-1004097/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬 Зальцбург: Итальянка в Алжире
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260830
-DTSTAMP:20260812T074847Z
-UID:zalcburg-italyanka-v-alzhire-257783-2026-08-30@perm-cinema
+SUMMARY:🎬 TheatreHD: Курентзис. Идоменей
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260808
+DTSTAMP:20260813T075022Z
+UID:theatrehd-kurentzis-idomeney-1001201-2026-08-08@perm-cinema
 CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:16+\nСтрана Австрия\n\nО фильме Чечил
- ия Бартоли и Ильдар Абдразаков в сатирич
- еской зальцбургской постановке искроме
- тной оперы Россини.\nОдна из лучших оперн
- ых комедий — «Итальянка в Алжире» Росси
- ни — была написана в 1813 году в расчете на
-  знаменитую звездную пару контральто и б
- аса своего времени. В 2018 году в Зальцбург
- е э...\n\nТрейлер: https://www.youtube.com/watch?v=pquiHWHHEPQ\n\
- nПодробнее: https://www.afisha.ru/prm/schedule_cinema_product/zal
- cburg-italyanka-v-alzhire-257783/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/zalcburg-italyanka-v
- -alzhire-257783/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎬 TheatreHD: Эдвард Клюг. Кармина Бурана
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260812T074847Z
-UID:theatrehd-edvard-klyug-karmina-burana-308086-2026-08-18@perm-cinema
-CATEGORIES:ЗАРУБЕЖНЫЕ-ФИЛЬМЫ,КИНО,ПЕРМЬ
-DESCRIPTION:16+\nСтрана Словения\n\nО фильме В же
- рновах колеса фортуны: эволюция жизни и 
- геометрия чувств в балете Эдварда Клюга.
- \nВ основе «Кармины Бураны»\, эпической к
- антаты Карла Орфа\, написанной в начале XX
-  столетия по манускриптам XIII века\, — сре
- дневековые размышления о человеческой с
- удьбе и ее переменчивости. Крутится коле
- со фор...\n\nТрейлер: https://www.youtube.com/watch?v=nrxmHAtK
- PgM\n\nПодробнее: https://www.afisha.ru/prm/schedule_cinema_produ
- ct/theatrehd-edvard-klyug-karmina-burana-308086/
-URL:https://www.afisha.ru/prm/schedule_cinema_product/theatrehd-edvard-kly
- ug-karmina-burana-308086/
+DESCRIPTION:16+\nСтрана Австрия\n\nО фильме Танде
+ м Питера Селларса и Теодора Курентзиса в
+  Зальцбурге: оригинальное прочтение опе
+ ры Моцарта в контексте современных экол
+ огических и мировоззренческих проблем.\n
+ В постановке Питера Селларса сверхъесте
+ ственная ярость Нептуна вызвана загрязн
+ ением океана\, а царем Идоменеем\, собрав
+ шимся принес...\n\nТрейлер: https://www.youtube.com/watc
+ h?v=5eTP-ELR8lc\n\nПодробнее: https://www.afisha.ru/prm/schedule_
+ cinema_product/theatrehd-kurentzis-idomeney-1001201/
+URL:https://www.afisha.ru/prm/schedule_cinema_product/theatrehd-kurentzis-
+ idomeney-1001201/
 END:VEVENT
 END:VCALENDAR
