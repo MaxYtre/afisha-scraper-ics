@@ -1,3 +1,3 @@
-SUMMARY candidates_processed=65
+SUMMARY candidates_processed=68
 === DIAG COPY START ===
-limit=200 foreign_films=65 429=0 403=0 cache_hits=87 cache_misses=3 sleep_total=525.6
+limit=200 foreign_films=68 429=0 403=0 cache_hits=90 cache_misses=9 sleep_total=575.1
